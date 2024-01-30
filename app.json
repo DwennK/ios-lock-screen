@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ef1ff65e-aade-4bd5-b986-706e2c090e03"
+      }
+    },
+    "owner": "desoxy"
   }
 }
